@@ -19,5 +19,3 @@ Afterwards, users can start to type commands (insert, reject, buy or exit) to pe
 ### Assumption
 1. There are four types of coins ($1, $2, $5, $10) only.
 2. User inputs are always valid.
-
-FYI: This is a course assignment. 
